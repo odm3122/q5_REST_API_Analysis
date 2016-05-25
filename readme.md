@@ -1,7 +1,6 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
   <head>
-
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>readme.md</title>
   </head>
@@ -12,6 +11,7 @@ Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
 Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;"></span></h1>
     <span style="font-family:
 Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">Q5.
+
       On a server, you are root user, you cannot reach the remote
       server, but you need<span style="font-family:
         ;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
@@ -49,15 +49,12 @@ Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
                   </span></span></span></span></span></span></span></span>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <p class="MsoNormal"><span style="mso-ansi-language:EN-GB"
-        lang="EN-GB">I would
-        install wireshark and capture the http traffic while I do some
-        faulty action in
-        the application.<o:p></o:p></span></p>
+        lang="EN-GB">I would install wireshark and capture the http
+        traffic while I do some faulty action in the application.<o:p></o:p></span></p>
     <p class="MsoNormal"><span style="mso-ansi-language:EN-GB"
-        lang="EN-GB">After the
-        capture action a "fallow the http stream" in wireshark and
-        search the
-        REST API Command of my action<o:p></o:p></span></p>
+        lang="EN-GB">After the capture action a "fallow the http stream"
+        in wireshark and search the REST API Command of my action.<br>
+        <o:p></o:p></span></p>
     <meta name="ProgId" content="Word.Document">
     <meta name="Generator" content="Microsoft Word 10">
     <meta name="Originator" content="Microsoft Word 10">
