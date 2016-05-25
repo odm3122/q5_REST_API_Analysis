@@ -50,13 +50,13 @@ Calibri;font-size:12pt;color:rgb(0,0,0);font-style:normal;font-variant:normal;">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <p class="MsoNormal"><span style="mso-ansi-language:EN-GB"
         lang="EN-GB">I would
-        install wireshark and capture the http traffic while a do some
+        install wireshark and capture the http traffic while I do some
         faulty action in
         the application.<o:p></o:p></span></p>
     <p class="MsoNormal"><span style="mso-ansi-language:EN-GB"
         lang="EN-GB">After the
         capture action a "fallow the http stream" in wireshark and
-        seacht the
+        search the
         REST API Command of my action<o:p></o:p></span></p>
     <meta name="ProgId" content="Word.Document">
     <meta name="Generator" content="Microsoft Word 10">
